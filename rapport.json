@@ -1,0 +1,32 @@
+{
+  "genere_le": "2026-07-29T10:10:15.761523+00:00",
+  "total": 4,
+  "joignables": 3,
+  "injoignables": 1,
+  "hotes": [
+    {
+      "nom": "boucle-locale",
+      "adresse": "127.0.0.1",
+      "role": "ip 127",
+      "joignable": true
+    },
+    {
+      "nom": "localhost",
+      "adresse": "localhost",
+      "role": "local",
+      "joignable": true
+    },
+    {
+      "nom": "hote-injoignable-partiellement",
+      "adresse": "192.0.2.1",
+      "role": "test injoignable partiellement",
+      "joignable": true
+    },
+    {
+      "nom": "hote-injoignable",
+      "adresse": "195.0.10.20",
+      "role": "test injoignable",
+      "joignable": false
+    }
+  ]
+}

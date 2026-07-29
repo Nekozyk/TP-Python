@@ -1,0 +1,17 @@
+ hotes:
+     - nom: boucle-locale
+       adresse: 127.0.0.1
+       role: ip 127
+     - nom: localhost
+       adresse: localhost
+       role: local
+     - nom: hote-vide
+       adresse: 
+       role: test vide
+     - nom: hote-injoignable-partiellement
+       adresse: 192.0.2.1
+       role: test injoignable partiellement
+     - nom: hote-injoignable
+       adresse: 195.0.10.20
+       role: test injoignable
+    
