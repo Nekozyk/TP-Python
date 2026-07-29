@@ -11,7 +11,5 @@
      - nom: hote-injoignable-partiellement
        adresse: 192.0.2.1
        role: test injoignable partiellement
-     - nom: hote-injoignable
-       adresse: 195.0.10.20
-       role: test injoignable
+
     

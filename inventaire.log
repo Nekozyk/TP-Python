@@ -1,0 +1,220 @@
+2026-07-29 12:26:32,775 INFO hôte lu : boucle-locale
+2026-07-29 12:26:34,295 INFO hôte lu : localhost
+2026-07-29 12:26:38,143 INFO hôte lu : hote-vide
+2026-07-29 12:26:39,279 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 12:26:45,783 INFO hôte lu : hote-injoignable
+2026-07-29 12:27:14,622 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 12:27:21,614 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 12:27:23,629 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 12:27:23,631 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 13:35:18,694 INFO hôte lu : boucle-locale
+2026-07-29 13:35:18,695 INFO hôte lu : localhost
+2026-07-29 13:35:18,695 INFO hôte lu : hote-vide
+2026-07-29 13:35:18,695 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 13:35:18,695 INFO hôte lu : hote-injoignable
+2026-07-29 13:35:18,774 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 13:39:42,104 INFO hôte lu : boucle-locale
+2026-07-29 13:39:42,105 INFO hôte lu : localhost
+2026-07-29 13:39:42,105 INFO hôte lu : hote-vide
+2026-07-29 13:39:42,105 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 13:39:42,105 INFO hôte lu : hote-injoignable
+2026-07-29 13:39:42,140 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 13:39:44,159 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 13:39:46,183 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 13:39:46,188 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 13:59:56,082 INFO hôte lu : boucle-locale
+2026-07-29 13:59:56,084 INFO hôte lu : localhost
+2026-07-29 13:59:56,084 INFO hôte lu : hote-vide
+2026-07-29 13:59:56,084 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 13:59:56,084 INFO hôte lu : hote-injoignable
+2026-07-29 13:59:56,119 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 13:59:58,144 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:00:00,161 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:00:00,163 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:03:38,140 INFO hôte lu : boucle-locale
+2026-07-29 14:03:38,140 INFO hôte lu : localhost
+2026-07-29 14:03:38,141 INFO hôte lu : hote-vide
+2026-07-29 14:03:38,141 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:03:38,141 INFO hôte lu : hote-injoignable
+2026-07-29 14:03:38,213 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:03:41,238 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:03:41,239 INFO Le rapport a été créé avec 4 hôtes (3 joignables, 1 injoignables)
+2026-07-29 14:18:09,074 INFO hôte lu : boucle-locale
+2026-07-29 14:18:09,076 INFO hôte lu : localhost
+2026-07-29 14:18:09,076 INFO hôte lu : hote-vide
+2026-07-29 14:18:09,076 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:18:09,076 INFO hôte lu : hote-injoignable
+2026-07-29 14:18:09,111 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:18:11,132 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:18:13,152 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:18:13,155 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:19:02,681 INFO hôte lu : boucle-locale
+2026-07-29 14:19:02,682 INFO hôte lu : localhost
+2026-07-29 14:19:02,683 INFO hôte lu : hote-vide
+2026-07-29 14:19:02,683 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:19:02,683 INFO hôte lu : hote-injoignable
+2026-07-29 14:19:02,715 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:19:04,728 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:19:06,746 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:19:06,753 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:22:26,791 INFO hôte lu : boucle-locale
+2026-07-29 14:22:26,792 INFO hôte lu : localhost
+2026-07-29 14:22:26,792 INFO hôte lu : hote-vide
+2026-07-29 14:22:26,792 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:22:26,792 INFO hôte lu : hote-injoignable
+2026-07-29 14:22:26,825 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:22:28,846 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:22:30,865 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:22:30,869 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:48:02,442 INFO hôte lu : boucle-locale
+2026-07-29 14:48:02,442 INFO hôte lu : localhost
+2026-07-29 14:48:02,442 INFO hôte lu : hote-vide
+2026-07-29 14:48:02,443 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:48:02,443 INFO hôte lu : hote-injoignable
+2026-07-29 14:48:02,509 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:48:04,518 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:48:06,539 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:48:06,540 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:49:45,941 INFO hôte lu : boucle-locale
+2026-07-29 14:49:45,942 INFO hôte lu : localhost
+2026-07-29 14:49:45,942 INFO hôte lu : hote-vide
+2026-07-29 14:49:46,023 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:49:46,023 INFO Le rapport a été créé avec 2 hôtes (2 joignables, 0 injoignables)
+2026-07-29 14:50:50,773 ERROR Le fichier test.yaml est introuvable
+2026-07-29 14:50:50,773 ERROR Impossible de charger l'inventaire test.yaml
+2026-07-29 14:54:41,724 INFO hôte lu : boucle-locale
+2026-07-29 14:54:41,724 INFO hôte lu : localhost
+2026-07-29 14:54:41,724 INFO hôte lu : hote-vide
+2026-07-29 14:54:41,724 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:54:41,725 INFO hôte lu : hote-injoignable
+2026-07-29 14:54:41,801 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:54:43,824 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 14:54:45,843 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:54:45,845 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 14:54:59,957 INFO hôte lu : boucle-locale
+2026-07-29 14:54:59,957 INFO hôte lu : localhost
+2026-07-29 14:54:59,958 INFO hôte lu : hote-vide
+2026-07-29 14:54:59,958 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 14:54:59,958 INFO hôte lu : hote-injoignable
+2026-07-29 14:55:00,033 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 14:55:02,065 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 14:55:02,068 INFO Le rapport a été créé avec 4 hôtes (3 joignables, 1 injoignables)
+2026-07-29 15:00:51,558 INFO hôte lu : boucle-locale
+2026-07-29 15:00:51,559 INFO hôte lu : localhost
+2026-07-29 15:00:51,559 INFO hôte lu : hote-vide
+2026-07-29 15:00:51,559 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:00:51,559 INFO hôte lu : hote-injoignable
+2026-07-29 15:00:51,591 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:00:53,622 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:00:53,624 ERROR Le fichier rapport.json est introuvable
+2026-07-29 15:00:53,624 ERROR Une erreur est survenue à la création du rapport rapport.json
+2026-07-29 15:03:55,919 INFO hôte lu : boucle-locale
+2026-07-29 15:03:55,920 INFO hôte lu : localhost
+2026-07-29 15:03:55,920 INFO hôte lu : hote-vide
+2026-07-29 15:03:55,921 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:03:55,921 INFO hôte lu : hote-injoignable
+2026-07-29 15:03:55,952 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:03:57,964 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:03:59,995 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:08:04,005 INFO hôte lu : boucle-locale
+2026-07-29 15:08:04,007 INFO hôte lu : localhost
+2026-07-29 15:08:04,008 INFO hôte lu : hote-vide
+2026-07-29 15:08:04,008 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:08:04,008 INFO hôte lu : hote-injoignable
+2026-07-29 15:08:04,050 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:08:06,064 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:08:08,080 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:08:08,082 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:09:07,235 INFO hôte lu : boucle-locale
+2026-07-29 15:09:07,236 INFO hôte lu : localhost
+2026-07-29 15:09:07,236 INFO hôte lu : hote-vide
+2026-07-29 15:09:07,236 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:09:07,236 INFO hôte lu : hote-injoignable
+2026-07-29 15:09:07,306 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:09:09,318 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:09:11,336 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:09:11,345 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:10:38,034 INFO hôte lu : boucle-locale
+2026-07-29 15:10:38,034 INFO hôte lu : localhost
+2026-07-29 15:10:38,034 INFO hôte lu : hote-vide
+2026-07-29 15:10:38,034 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:10:38,034 INFO hôte lu : hote-injoignable
+2026-07-29 15:10:38,104 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:10:40,125 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:10:42,145 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:10:42,148 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:12:05,368 INFO hôte lu : boucle-locale
+2026-07-29 15:12:05,368 INFO hôte lu : localhost
+2026-07-29 15:12:05,368 INFO hôte lu : hote-vide
+2026-07-29 15:12:05,369 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:12:05,369 INFO hôte lu : hote-injoignable
+2026-07-29 15:12:05,436 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:12:07,448 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:12:09,470 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:12:09,472 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:12:22,237 INFO hôte lu : boucle-locale
+2026-07-29 15:12:22,237 INFO hôte lu : localhost
+2026-07-29 15:12:22,238 INFO hôte lu : hote-vide
+2026-07-29 15:12:22,238 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:12:22,238 INFO hôte lu : hote-injoignable
+2026-07-29 15:12:22,310 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:12:24,327 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:12:26,346 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:12:26,347 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:15:37,654 INFO hôte lu : boucle-locale
+2026-07-29 15:15:37,654 INFO hôte lu : localhost
+2026-07-29 15:15:37,654 INFO hôte lu : hote-vide
+2026-07-29 15:15:37,655 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:15:37,655 INFO hôte lu : hote-injoignable
+2026-07-29 15:15:37,718 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:15:39,742 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:15:41,761 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:15:41,763 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:20:15,298 INFO hôte lu : boucle-locale
+2026-07-29 15:20:15,298 INFO hôte lu : localhost
+2026-07-29 15:20:15,299 INFO hôte lu : hote-vide
+2026-07-29 15:20:15,299 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:20:15,299 INFO hôte lu : hote-injoignable
+2026-07-29 15:20:15,374 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:20:17,398 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:20:17,399 INFO Le rapport a été créé avec 4 hôtes (3 joignables, 1 injoignables)
+2026-07-29 15:21:14,823 INFO hôte lu : boucle-locale
+2026-07-29 15:21:14,824 INFO hôte lu : localhost
+2026-07-29 15:21:14,824 INFO hôte lu : hote-vide
+2026-07-29 15:21:14,824 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:21:14,824 INFO hôte lu : hote-injoignable
+2026-07-29 15:21:14,897 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:21:16,917 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:21:18,938 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:21:18,956 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:21:58,415 INFO hôte lu : boucle-locale
+2026-07-29 15:21:58,415 INFO hôte lu : localhost
+2026-07-29 15:21:58,416 INFO hôte lu : hote-vide
+2026-07-29 15:21:58,416 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:21:58,416 INFO hôte lu : hote-injoignable
+2026-07-29 15:21:58,493 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:22:00,506 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:22:02,533 WARNING Ping timeout pour 195.0.10.20
+2026-07-29 15:22:02,550 INFO Le rapport a été créé avec 4 hôtes (2 joignables, 2 injoignables)
+2026-07-29 15:25:59,348 INFO hôte lu : boucle-locale
+2026-07-29 15:25:59,348 INFO hôte lu : localhost
+2026-07-29 15:25:59,348 INFO hôte lu : hote-vide
+2026-07-29 15:25:59,348 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:25:59,438 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:26:01,450 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:26:01,463 INFO Le rapport a été créé avec 3 hôtes (2 joignables, 1 injoignables)
+2026-07-29 15:26:07,273 INFO hôte lu : boucle-locale
+2026-07-29 15:26:07,273 INFO hôte lu : localhost
+2026-07-29 15:26:07,273 INFO hôte lu : hote-vide
+2026-07-29 15:26:07,273 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:26:07,339 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:26:09,355 WARNING Ping timeout pour 192.0.2.1
+2026-07-29 15:26:09,372 INFO Le rapport a été créé avec 3 hôtes (2 joignables, 1 injoignables)
+2026-07-29 15:26:12,037 INFO hôte lu : boucle-locale
+2026-07-29 15:26:12,037 INFO hôte lu : localhost
+2026-07-29 15:26:12,037 INFO hôte lu : hote-vide
+2026-07-29 15:26:12,037 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:26:12,107 WARNING Attention l'hôte hote-vide n'a pas d'adresse ip
+2026-07-29 15:26:12,135 INFO Le rapport a été créé avec 3 hôtes (3 joignables, 0 injoignables)
+2026-07-29 15:30:39,195 INFO hôte lu : hote-injoignable-partiellement
+2026-07-29 15:30:39,265 INFO Le rapport a été créé avec 1 hôtes (1 joignables, 0 injoignables)

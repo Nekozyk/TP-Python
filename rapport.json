@@ -1,32 +1,286 @@
-{
-  "genere_le": "2026-07-29T10:10:15.761523+00:00",
-  "total": 4,
-  "joignables": 3,
-  "injoignables": 1,
-  "hotes": [
-    {
-      "nom": "boucle-locale",
-      "adresse": "127.0.0.1",
-      "role": "ip 127",
-      "joignable": true
-    },
-    {
-      "nom": "localhost",
-      "adresse": "localhost",
-      "role": "local",
-      "joignable": true
-    },
-    {
-      "nom": "hote-injoignable-partiellement",
-      "adresse": "192.0.2.1",
-      "role": "test injoignable partiellement",
-      "joignable": true
-    },
-    {
-      "nom": "hote-injoignable",
-      "adresse": "195.0.10.20",
-      "role": "test injoignable",
-      "joignable": false
-    }
-  ]
-}
+[
+  {
+    "genere_le": "2026-07-29T13:12:09.471545+00:00",
+    "total": 4,
+    "joignables": 2,
+    "injoignables": 2,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:12:26.347137+00:00",
+    "total": 4,
+    "joignables": 2,
+    "injoignables": 2,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:15:41.762483+00:00",
+    "total": 4,
+    "joignables": 2,
+    "injoignables": 2,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:20:17.398704+00:00",
+    "total": 4,
+    "joignables": 3,
+    "injoignables": 1,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:21:18.955939+00:00",
+    "total": 4,
+    "joignables": 2,
+    "injoignables": 2,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:22:02.549339+00:00",
+    "total": 4,
+    "joignables": 2,
+    "injoignables": 2,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      },
+      {
+        "nom": "hote-injoignable",
+        "adresse": "195.0.10.20",
+        "role": "test injoignable",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:26:01.462383+00:00",
+    "total": 3,
+    "joignables": 2,
+    "injoignables": 1,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:26:09.371291+00:00",
+    "total": 3,
+    "joignables": 2,
+    "injoignables": 1,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": false
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:26:12.133047+00:00",
+    "total": 3,
+    "joignables": 3,
+    "injoignables": 0,
+    "hotes": [
+      {
+        "nom": "boucle-locale",
+        "adresse": "127.0.0.1",
+        "role": "ip 127",
+        "joignable": true
+      },
+      {
+        "nom": "localhost",
+        "adresse": "localhost",
+        "role": "local",
+        "joignable": true
+      },
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": true
+      }
+    ]
+  },
+  {
+    "genere_le": "2026-07-29T13:30:39.264512+00:00",
+    "total": 1,
+    "joignables": 1,
+    "injoignables": 0,
+    "hotes": [
+      {
+        "nom": "hote-injoignable-partiellement",
+        "adresse": "192.0.2.1",
+        "role": "test injoignable partiellement",
+        "joignable": true
+      }
+    ]
+  }
+]
